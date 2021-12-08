@@ -1,8 +1,8 @@
-# Utilities
-## I will try to build as many "utilities" into this website as possible
+# **Utilities**
+### Checklist:
 
-[x] [/price-watcer](https://5am.info/price-watcher) - A price watcher for the coins I hold.
+- [x] [/price-watcer](https://5am.info/price-watcher) - A price watcher for the coins I hold.
 
-[ ] [/media](https://5am.info/media) - creating a good CDN 
+- [ ] [/media](https://5am.info/media) - Creating a good CDN
 
-[ ] [/index](https://5am.info) - more to come
+- [ ] [/index](https://5am.info) - More to come
